@@ -2,7 +2,6 @@ import { generateYAxis } from '@/app/lib/utils';
 import { CalendarIcon } from '@heroicons/react/24/outline';
 import { lusitana } from '@/app/ui/fonts';
 import { fetchRevenue } from '@/app/lib/data';
-import { fetchLatestInvoices } from '@/app/lib/data';
  
 // export default async function LatestInvoices() { // Remove props
 //   const latestInvoices = await fetchLatestInvoices();
